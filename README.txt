@@ -25,10 +25,6 @@ proposta de layout responsivo.
 - Google Fonts (Albert Sans)
 - Layout com CSS Grid e Flexbox
 
-## 📸 Captura de Tela
-
-
-
 ## 🛠 Como executar
 
 1. Clone o repositório:
